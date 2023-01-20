@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+
+.cs_intro_gif{
+    /* height: 100%;
+    width: auto; */
+    text-align: center;
+}
+
+.img_intro_gif{
+    display: block;
+    margin: auto;
+    margin-top: -5%;
+    width: 76%;
+}
